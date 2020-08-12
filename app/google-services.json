@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929742157720",
+    "firebase_url": "https://darkplay-2.firebaseio.com",
+    "project_id": "darkplay-2",
+    "storage_bucket": "darkplay-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929742157720:android:f2218023eb28fc09751ded",
+        "android_client_info": {
+          "package_name": "com.example.Darkplay21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929742157720-sgppnijijr85ptksejbabarsu83akdrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxv7fgEbPHkdz34Ub9nodt-bA1hTwwaq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929742157720-sgppnijijr85ptksejbabarsu83akdrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
